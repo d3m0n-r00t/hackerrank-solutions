@@ -1,5 +1,5 @@
 # HackerRank Solutions
-This repo contains some hackerrank solutions that have a `Medium` difficulty.
+This repo contains some hackerrank solutions that have a `Medium` difficulty in python.
 
 # Problems.. 
 ## Megaprime
@@ -22,3 +22,8 @@ This problem requires some pre-requsit knowledge on dynamic programming. The str
 ## Candles counting
 Link: https://www.hackerrank.com/challenges/candles-2/problem
 The problem uses dp, fenwick tree/binary indexed tree, inclusion-exclusion principle, and bitmasking.
+
+
+
+### Note
+If you can provide solutions for any hackerrank problems, add it and update this README and open a pull request.
